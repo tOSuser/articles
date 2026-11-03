@@ -1,4 +1,4 @@
-# A Small Boundary: Personal and Non-Commercial License with a Defense-Industry Exclusion
+# A Small Boundary: Personal and Non-Commercial License with a Defense-Industry Exclusion (PNC-DIE)
 
 *Note: This article was developed from the author’s ideas and refined with the assistance of AI.*
 
@@ -31,4 +31,4 @@ The restriction does not guarantee that the software will never be used in milit
 Because this is a custom license—and because its defense-industry restriction is broad—it should be reviewed by a lawyer before publication. A license that prohibits commercial or military use is generally not considered an open-source license under the standard definition, so describe the repository as using a **custom, non-open-source license**.
 
 
-> **License:** You can view the full [LICENSE](./LICENSE) file for this project.
+> **License:** You can view/download the current `LICENSE` file here(./LICENSE).
