@@ -12,4 +12,3 @@ Each article is stored in its own folder at the root of this repository. Article
 
 ### Repository Structure
 
-1
